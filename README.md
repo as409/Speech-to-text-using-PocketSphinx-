@@ -8,7 +8,7 @@ To directly run it from command line use the command : pocketsphinx_continuous -
 
 The input file should be a 16khz 16 bit mono .wav file
 
-you can convert a mp3 file using the command : ffmpeg -i 111.mp3 -acodec pcm_s16le -ac 1 -ar 16000 out.wav
+you can convert a mp3 file using the command : ffmpeg -i yourfile.mp3 -acodec pcm_s16le -ac 1 -ar 16000 myfile.wav
 
 
 
