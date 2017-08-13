@@ -21,9 +21,9 @@ you can convert a mp3 file using the command : ffmpeg -i yourfile.mp3 -acodec pc
 ### Using the tensorflow's* sppech to text  https://github.com/buriburisuri/speech-to-text-wavenet 
 
  
-**Input** - Mr Bean drinks 8 cups of coffee a day.Mrs Bean thinks that Mr Bean drinks too much coffee.Mr Bean asked How many cups of coffee do you normally drink? Mrs Bean replied, I only drink 2 cups of coffee a day. Mr Bean promised not to drink so much coffee in the future.
+** Input ** - Mr Bean drinks 8 cups of coffee a day.Mrs Bean thinks that Mr Bean drinks too much coffee.Mr Bean asked How many cups of coffee do you normally drink? Mrs Bean replied, I only drink 2 cups of coffee a day. Mr Bean promised not to drink so much coffee in the future.
 
-**Output** - missr ben grings eaght cups of coffey a day missus being tink that mistrbein trinks to much caoffe mistr ben aske how an y cups of coffe to you normoly dring missus be rylied i a medring to cups of coffee a dhey mis e ben promised not to drink  sa much couffee in the futur
+** Output ** - missr ben grings eaght cups of coffey a day missus being tink that mistrbein trinks to much caoffe mistr ben aske how an y cups of coffe to you normoly dring missus be rylied i a medring to cups of coffee a dhey mis e ben promised not to drink  sa much couffee in the futur
 
 
-####Note- Both the machines are not trained and are running on the prebuilt models
+#### Note- Both the machines are not trained and are running on the prebuilt models
