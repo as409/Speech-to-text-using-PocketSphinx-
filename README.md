@@ -4,7 +4,7 @@ Text conversion of a live stream as well as an input file
 - install Sphinxbase and PocketSphinx 
 - Place your training models in the model folder 
 
-To directly run it from command line use the command : pocketsphinx_continuous -infile myfile.wav 
+To directly run it from command line use the command -> **pocketsphinx_continuous -infile myfile.wav** 
 
 The input file should be a 16khz 16 bit mono .wav file
 
